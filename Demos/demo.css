@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#magic-button {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+#magic-button.active {
+  background-color: green;
+}
